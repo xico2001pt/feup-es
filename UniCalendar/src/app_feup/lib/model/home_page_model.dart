@@ -1,0 +1,1 @@
+enum FAVORITE_WIDGET_TYPE { exams, activities, schedule, printBalance, account, busStops}
