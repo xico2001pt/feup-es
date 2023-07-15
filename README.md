@@ -9,7 +9,7 @@
 Este repositório contém:
 - Slides
 - Projeto
-   - [UniCalendar](./UniCalendar)
+   - [UniCalendar](./UniCalendar/)
 
 ## Classificações
 
